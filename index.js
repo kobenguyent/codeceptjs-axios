@@ -1,4 +1,3 @@
-const Helper = require('../helper');
 const requireg = require('requireg');
 
 let axios = requireg('axios');
