@@ -1,0 +1,35 @@
+{
+  "name": "codeceptjs-axios",
+  "version": "1.0.0",
+  "description": "CodeceptJS helper for REST request wraps axios",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PeterNgTr/codeceptjs-axios.git"
+  },
+  "keywords": [
+    "codeceptJS",
+    "codeceptjs",
+    "axios",
+    "api",
+    "http"
+  ],
+  "author": "Thanh Nguyen <peter.nguyentr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PeterNgTr/codeceptjs-axios/issues"
+  },
+  "homepage": "https://github.com/PeterNgTr/codeceptjs-axios#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "requireg": "^0.1.8"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0"
+  }
+}
