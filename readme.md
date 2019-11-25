@@ -1,5 +1,7 @@
 # codeceptjs-axios
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/PeterNgTr/codeceptjs-axios.svg)](https://greenkeeper.io/)
+
 codeceptjs-http is [CodeceptJS](https://codecept.io/) helper which wraps [axios](https://github.com/axios/axios) library to
 perform requests. It's alternative helper that provides more flexible request management.
 
